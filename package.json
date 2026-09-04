@@ -1,0 +1,1 @@
+{"name":"media-rerank-service","private":true,"type":"module","scripts":{"start":"node --experimental-strip-types src/media_rerank_service.ts","test":"node --experimental-strip-types src/media_rerank_test.ts","typecheck":"tsc --noEmit"},"dependencies":{"openai":"^4.0.0","zod":"^3.0.0"},"devDependencies":{"typescript":"^5.0.0"}}
